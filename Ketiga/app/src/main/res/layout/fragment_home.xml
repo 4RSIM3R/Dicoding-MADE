@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HomeFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="@dimen/margine"
+        android:layout_marginLeft="@dimen/margine"
+        android:layout_marginRight="@dimen/margine"
+        android:layout_marginTop="@dimen/margine"
+        android:text="Gas Amerika" />
+    <Button
+        android:id="@+id/tombol"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/margine"
+        android:layout_marginRight="@dimen/margine"
+        android:text="Yang Lainnya" />
+
+</LinearLayout>

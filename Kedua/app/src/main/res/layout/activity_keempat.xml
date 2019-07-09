@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:layout_marginBottom="@dimen/margine"
+    android:layout_marginRight="@dimen/margine"
+    android:layout_marginLeft="@dimen/margine"
+    android:layout_marginTop="@dimen/margine"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Keempat">
+    <TextView
+        android:textSize="24sp"
+        android:layout_marginBottom="@dimen/margine"
+        android:text="Pilih Yang Kamu Suka"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <RadioGroup
+        android:orientation="vertical"
+        android:id="@+id/pilihan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RadioButton
+        android:text="100"
+        android:layout_marginBottom="@dimen/margine"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/a"/>
+        <RadioButton
+            android:id="@+id/b"
+            android:text="200"
+            android:layout_marginBottom="@dimen/margine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <RadioButton
+            android:id="@+id/c"
+            android:text="300"
+            android:layout_marginBottom="@dimen/margine"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RadioGroup>
+    <Button
+        android:id="@+id/kembali"
+        android:text="Kembali"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

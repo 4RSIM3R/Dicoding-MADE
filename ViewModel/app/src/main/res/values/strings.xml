@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">View Model</string>
+    <string name="insert_city">Masukkan Lat/Lon Daerah</string>
+    <string name="id_jakarta_bandung_semarang">1642911,1650357,1627896</string>
+    <string name="search">cari</string>
+    <string name="temperature">Suhunya</string>
+    <string name="description">Deskripsinya</string>
+    <string name="name">Pasuruan</string>
+</resources>

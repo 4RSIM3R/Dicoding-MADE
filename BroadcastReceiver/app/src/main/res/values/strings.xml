@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Broadcast Receiver</string>
+    <string name="this_sms_receiver_app">Terima Sms</string>
+    <string name="check_sms_permission">Check Sms Permission</string>
+    <string name="coming_from">Abah Suku</string>
+    <string name="this_play">Ini Pesannya</string>
+    <string name="close">Tutup</string>
+    <string name="download_a_file">Download A File</string>
+</resources>

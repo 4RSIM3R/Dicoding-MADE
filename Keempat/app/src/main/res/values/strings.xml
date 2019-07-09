@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Keempat</string>
+    <string-array name="list_nama">
+        <item>Bill Gates</item>
+        <item>Sundar Pichai</item>
+    </string-array>
+    <string-array name="list_desc">
+        <item>Bill Gates Adalah Pendiri Microsoft</item>
+        <item>Sundar Pichai Adalah Ceo Google.inc</item>
+    </string-array>
+    <array name="list_gambar">
+        <item>@drawable/bill_gates</item>
+        <item>@drawable/sundar_pichai</item>
+    </array>
+</resources>

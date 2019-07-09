@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ketujuh</string>
+    <string name="pin">Masukkan Pin Nya</string>
+    <string name="login">Login</string>
+</resources>

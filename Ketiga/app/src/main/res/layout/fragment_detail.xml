@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    android:padding="@dimen/margine"
+    android:orientation="vertical"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailFragment">
+
+    <TextView
+        android:layout_marginBottom="@dimen/margine"
+        android:id="@+id/judul"
+        android:text="Ini Judulnya Nanti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginBottom="@dimen/margine"
+        android:id="@+id/deskripsi"
+        android:text="Ini Deskripsinya nanti Nanti"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button
+        android:layout_marginBottom="@dimen/margine"
+        android:id="@+id/profile"
+        android:text="Ke Mana Profil ? "
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:layout_marginBottom="@dimen/margine"
+        android:id="@+id/dialog"
+        android:text="Show Me A Dialog"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_marginBottom="@dimen/margine"
+        android:id="@+id/kiriman"
+        android:text="Budal Amerika"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Alarm Manager</string>
+    <string name="alamr_sekali_jalan">Alamr Sekali Jalan</string>
+    <string name="alarm_date">Tanggal nya nanti</string>
+    <string name="alarm_time">Jam Nya Nanti</string>
+    <string name="alarm_message">Bangunin Saya jam sekian</string>
+    <string name="set_one_time_alarm">Alarm Sekali</string>
+</resources>
